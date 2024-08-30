@@ -1,4 +1,6 @@
-<div align="center"><img src="image/OIG2.svg" alt="Logo" wigth="400" height="400"></div>
+<div align="center">
+	<img src="image/OIG2.svg" alt="Logo" wigth="400" height="400">
+</div>
 
 # YouTube Video Downloader and Merger
 
@@ -23,8 +25,9 @@ Before running the script, ensure you have the following installed:
 
 You can install the required Python package using pip:
 
-  ```bash
-     pip install yt-dlp```
+```bash
+	pip install yt-dlp  
+```
 
 ffmpeg must also be installed on your system.
 

@@ -12,7 +12,7 @@ This Python script allows you to download YouTube videos and audio separately, t
 
 - List available video and audio formats for a given YouTube video URL.
 - Download the highest quality video and audio formats separately.
-- Remove any sponsor ads from the video.
+- Remove any sponsors ads from the video.
 - Merge the downloaded video and audio into a single file using `ffmpeg`.
 - Rename the final output file to the video title.
 

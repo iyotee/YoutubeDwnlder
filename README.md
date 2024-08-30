@@ -38,24 +38,28 @@ ffmpeg must also be installed on your system.
 
 ```bash
 git clone https://github.com/yourusername/youtube-downloader-merger.git
-cd youtube-downloader-merger```
+cd youtube-downloader-merger
+```
 
 2. Create and activate a virtual environment (optional but recommended):
 
 ```bash
 python -m venv myenv
-source myenv/bin/activate  # On Windows use: myenv\Scripts\activate```
+source myenv/bin/activate  # On Windows use: myenv\Scripts\activate
+```
 
 3. Install required packages:
 
 ```bash
-pip install yt-dlp```
+pip install yt-dlp
+```
 
 4. Run the script:
 
 ```bash
 python main.py
-Enter the URL of the YouTube video when prompted.```
+Enter the URL of the YouTube video when prompted.
+```
 
 ## Code Overview
 

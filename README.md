@@ -97,6 +97,3 @@ This project is licensed under the MIT License. Iyotee - August 2024
 ## Contributing
 
 Feel free to submit issues or pull requests. Contributions are welcome!
-
-## Contact
-For questions or feedback, please contact your-email@example.com.

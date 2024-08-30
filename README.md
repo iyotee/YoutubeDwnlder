@@ -84,7 +84,8 @@ Main function that prompts the user for a YouTube video URL, lists available for
 ## Troubleshooting
 
 ```bash
-	KeyError: 'acodec' or TypeError: '>' not supported between instances of 'NoneType' and 'int': Ensure that the yt-dlp and ffmpeg versions are up to date.```
+KeyError: 'acodec' or TypeError: '>' not supported between instances of 'NoneType' and 'int': Ensure that the yt-dlp and ffmpeg versions are up to date.  
+```
 
 These errors occur when certain format details are missing or invalid.
 

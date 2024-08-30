@@ -26,7 +26,7 @@ Before running the script, ensure you have the following installed:
 You can install the required Python package using pip:
 
 ```bash
-	pip install yt-dlp  
+pip install yt-dlp  
 ```
 
 ffmpeg must also be installed on your system.

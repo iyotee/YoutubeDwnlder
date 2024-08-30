@@ -90,7 +90,7 @@ KeyError: 'acodec' or TypeError: '>' not supported between instances of 'NoneTyp
 These errors occur when certain format details are missing or invalid.
 
 
-##License
+## License
 
 This project is licensed under the MIT License. Iyotee - August 2024
 

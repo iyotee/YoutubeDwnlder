@@ -58,8 +58,9 @@ pip install yt-dlp
 
 ```bash
 python main.py
-Enter the URL of the YouTube video when prompted.
 ```
+
+Enter the URL of the YouTube video when prompted.
 
 ## Code Overview
 
